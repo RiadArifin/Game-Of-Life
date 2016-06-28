@@ -1,8 +1,7 @@
 
 /**
- * Assignment 8
  * A class for grid
- * Md. Riad Arifin (A00395462), Mar 2016
+ * Md. Riad Arifin
  */
 public class grid {
 
