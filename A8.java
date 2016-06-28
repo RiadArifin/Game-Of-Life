@@ -1,8 +1,7 @@
 
 /**
- * Assignment 8
  * A program to play Game of Life
- * Md. Riad Arifin (A00395462), Mar 2016
+ * Md. Riad Arifin
  */
 import java.io.*;
 import java.util.*;
